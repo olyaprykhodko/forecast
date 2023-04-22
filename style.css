@@ -1,0 +1,118 @@
+.window {
+    width: 210px;
+    height: 293px;
+    left: 0px;
+    top: 0px;
+    background: #6BA7CC;
+    border-radius: 60px;
+    margin-top: 20px;
+}
+
+
+.name {
+    padding-top: 20px;
+    text-align: center;
+    width: 218px;
+    height: 33px;
+    left: 146px;
+    top: 50px;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 33px;
+    color: rgb(72, 72, 74);
+
+}
+
+.temp {
+    width: 248px;
+    height: 100px;
+    left: 132px;
+    top: 150px;
+    text-align: center;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 126px;
+    margin-bottom: 30px;
+    margin-top: -20px;
+
+    background: linear-gradient(202.53deg, #f5d95b 24.11%, rgba(232, 252, 255, 0) 109.2%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+
+    backdrop-filter: blur(21.5px);
+}
+
+.icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -6%;
+    right: -20%;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 20px;
+    color: #E8FCFF;;
+    font-weight: bold;
+}   
+
+.wind {
+    left: 40.2%;
+    right: 40%;
+    top: 46.29%;
+    bottom: 51.18%;
+    text-align: center;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+
+    color: #E8FCFF;
+    line-height: 21px;
+}
+
+.humidity {
+    left: 40.2%;
+    right: 40%;
+    top: 46.29%;
+    bottom: 51.18%;
+    text-align: center;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+
+    color: #E8FCFF;
+    line-height: 21px;
+
+}
+
+.pressure {
+    left: 40.2%;
+    right: 40%;
+    top: 46.29%;
+    bottom: 51.18%;
+    text-align: center;
+    font-family: 'Rubik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 28px;
+
+    color: #E8FCFF;
+    line-height: 21px;
+}
+
+.sel-style {
+    height: 20px;
+    width: 200px;
+    font-size: large;
+}
